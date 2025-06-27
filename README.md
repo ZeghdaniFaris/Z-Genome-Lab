@@ -1,6 +1,7 @@
 # Z Genome Lab (Protected GitHub Release)
 
-Z Genome Lab is a symbolic-AI genomic simulation engine featuring over 25 modules for gene analysis, mutation modeling, and AI-assisted diagnosis.
+Z Genome Lab is the world’s first symbolic-AI-based genomic platform integrating over 25+ smart modules for gene analysis, mutation simulation, predictive interpretation, and dynamic 3D modeling.
+
 
 🔒 This repository contains documentation and protected proof of concept materials only. No source code is included.
 
