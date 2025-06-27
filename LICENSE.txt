@@ -1,0 +1,8 @@
+Proprietary License – Z Genome Lab
+
+This project is licensed under a proprietary license.
+All rights, including intellectual property, are reserved by the author, Faris Zeghdani.
+
+Unauthorized reproduction, modification, or commercial use is strictly prohibited without explicit written consent.
+
+For licensing or commercial acquisition, contact: zeghdanifaris@gmail.com
