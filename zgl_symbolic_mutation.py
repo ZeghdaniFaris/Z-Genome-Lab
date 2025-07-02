@@ -1,0 +1,1 @@
+def apply_symbolic_mutation(dna): return dna.replace('A', 'G').replace('T', 'C')

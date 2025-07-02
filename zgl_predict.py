@@ -1,0 +1,1 @@
+def predict_next_mutation(dna): return 'Predicted Z: G↔C flip near center'

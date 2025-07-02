@@ -1,8 +1,11 @@
-Proprietary License – Z Genome Lab
+Copyright (c) 2025 Faris Zeghdani
 
-This project is licensed under a proprietary license.
-All rights, including intellectual property, are reserved by the author, Faris Zeghdani.
+This project (Z Genome Lab Lite) is published under a Non-Commercial Demonstration License.
+It is strictly for educational, demonstration, and scientific evaluation purposes only.
 
-Unauthorized reproduction, modification, or commercial use is strictly prohibited without explicit written consent.
+Commercial use, resale, or redistribution is prohibited without explicit permission.
 
-For licensing or commercial acquisition, contact: zeghdanifaris@gmail.com
+To request access to the full commercial version of Z Genome Lab, contact:
+📩 Email: zeghdanifaris@gmail.com
+📞 WhatsApp: +213 669 078 990
+🔗 LinkedIn: https://www.linkedin.com/in/zeghdanifaris/

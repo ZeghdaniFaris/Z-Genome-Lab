@@ -1,0 +1,1 @@
+def export_result(original, mutated): return f'Original: {original}\nMutated: {mutated}'

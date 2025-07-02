@@ -1,22 +1,19 @@
-# Z Genome Lab (Protected GitHub Release)
+# Z Genome Lab Lite 🧬
 
-Z Genome Lab is the world’s first symbolic-AI-based genomic platform integrating over 25+ smart modules for gene analysis, mutation simulation, predictive interpretation, and dynamic 3D modeling.
+This is a symbolic AI-based mutation demonstration from the full Z Genome Lab engine.
 
+## 🔍 Description
+This version showcases a limited, symbolic mutation workflow using Z logic.
+It is designed for demonstration purposes only.
 
-🔒 This repository contains documentation and protected proof of concept materials only. No source code is included.
+## ⚠️ License
+This project is NOT intended for commercial use.
+All rights reserved © 2025 Faris Zeghdani.
 
-## Project Highlights
-- 25+ symbolic genomic modules
-- Intelligent mutation predictors
-- 3D genomic simulation outputs
-- PDF & AI-assisted reporting
+For full access or licensing inquiries:
+📩 zeghdanifaris@gmail.com | 📞 +213 669 078 990 | 🔗 LinkedIn: https://www.linkedin.com/in/zeghdanifaris/
 
-## Legal Notice
-This release is covered by a **Proprietary Commercial License**.
-For access to source code, licensing inquiries, or acquisition offers, contact: **zeghdanifaris@gmail.com**
+## 🚀 Launch Live App
+Click below to run this app interactively via Streamlit Cloud:
 
----
-
-**Created by:** Faris Zeghdani  
-**Protected under e-Soleau (INPI France)**  
-**Publication planned on arXiv and GitHub**
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zgenomelab-lite.streamlit.app)

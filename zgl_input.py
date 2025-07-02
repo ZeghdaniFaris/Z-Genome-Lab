@@ -1,0 +1,1 @@
+def load_dna_sequence(): return 'ATCGGCTAAGCT'
