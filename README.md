@@ -16,4 +16,5 @@ For full access or licensing inquiries:
 ## 🚀 Launch Live App
 Click below to run this app interactively via Streamlit Cloud:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zgenomelab-lite.streamlit.app)
+[![Open in Streamlit]
+https://z-genome-lab-lite.streamlit.app
