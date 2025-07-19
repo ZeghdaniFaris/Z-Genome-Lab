@@ -12,7 +12,7 @@ Z Genome Lab Lite is a **non-commercial**, limited version of the full Z Genome 
 It allows users to:
 - Upload example DNA sequences (.CSV)
 - See symbolic transformations in real-time
-- Visualize genomic data in 3D
+- Visualize genomic data in 3D (in the full SaaS version coming 🔜)
 - Explore symbolic mutations using Z Logic
 
 > 🧪 Ideal for researchers, students, and early adopters.
