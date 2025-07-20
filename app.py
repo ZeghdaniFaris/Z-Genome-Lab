@@ -43,6 +43,6 @@ These substitutions respect **purine-to-purine** and **pyrimidine-to-pyrimidine*
 - ✅ Minimal structural disruption of the double helix  
 - ✅ Preservation of molecular weight and hydrogen bonding balance  
 - ✅ Symbolic mutation stability for intelligent DNA processing  
-
+ ✒️ i name it Symbolic Stable Mutation (SSM)
 🧬 This rule mimics biological transition mutations but implements them in a **mathematically controlled symbolic form**: **Symbolic Mutation**
 """)
