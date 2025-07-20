@@ -1,57 +1,78 @@
 # 🧬 Z Genome Lab Lite — Symbolic Genomic Demonstrator
 
-This is the **open-source showcase** of the Z Genome Lab platform — a revolutionary genomic engine using symbolic AI and dimensional logic.
+This is the **open-source showcase** of the Z Genome Lab platform — a revolutionary genomic engine powered by symbolic AI and dimensional logic.
 
-> 🎯 Purpose: Demonstrate symbolic genome transformation in a simple, accessible way.
+> 🎯 **Purpose**: Demonstrate symbolic genome transformation in a simple, accessible way using symbolic intelligence.
 
 ---
 
 ## 🔍 What is Z Genome Lab Lite?
 
-Z Genome Lab Lite is a **non-commercial**, limited version of the full Z Genome Lab SaaS system.  
-It allows users to:
+Z Genome Lab Lite is a **non-commercial**, simplified version of the full Z Genome Lab SaaS system.  
+It enables users to:
 - Upload example DNA sequences (.CSV)
-- See symbolic transformations in real-time
-- Visualize genomic data in 3D (in the full SaaS version coming 🔜)
-- Explore symbolic mutations using Z Logic
+- Apply symbolic genomic transformations using Z Logic
+- Visualize symbolic mutations
+- Explore transition-based symbolic mutations (SSM)
+- Understand biologically-sound symbolic editing
 
-> 🧪 Ideal for researchers, students, and early adopters.
+> 🧪 Ideal for researchers, students, innovators, and early adopters.
 
 ---
 
 ## 🚀 Try It Live
 
-[👉 Launch Z Genome Lab Lite App (Streamlit)](https://z-genome-lab-lite.streamlit.app)
+▶️ [Launch Z Genome Lab Lite App (Streamlit)](https://z-genome-lab-lite.streamlit.app)
+
+📂 [View on GitHub](https://github.com/ZeghdaniFaris/Z-Genome-Lab)
+
+🌱 [WIPO Green Link — ID 174260](https://wipogreen.wipo.int/wipogreen-database/articles/174260)
+
+---
+
+## 🧬 Symbolic Stable Mutation (SSM)
+
+Z Genome Lab introduces a novel symbolic concept in genomics:  
+**SSM — Symbolic Stable Mutation**
+
+This transformation applies transition-based symbolic mutation rules:
+
+- **Adenine (A)** → **Guanine (G)**  
+- **Thymine (T)** → **Cytosine (C)**  
+
+These purine-to-purine and pyrimidine-to-pyrimidine substitutions ensure:
+
+✅ Structural stability of the DNA double helix  
+✅ Preservation of hydrogen bonding and molecular weight  
+✅ Symbolic, explainable, and mathematically controlled mutation  
+
+This is not random mutagenesis — it's a **stable, interpretable transformation** powered by symbolic logic.  
+Implemented directly in the Z Genome Lab Lite engine.
 
 ---
 
 ## 🛠️ How to Use
 
 1. Open the link above ☝️  
-2. Upload sample `.csv` file (provided in repo)  
-3. Choose mutation parameters (Z type)  
-4. Visualize in 3D and explore symbolic output  
-5. Optionally, download results or screenshots
+2. Upload a sample `.csv` file (or input a DNA sequence manually)  
+3. Apply the symbolic Z mutation  
+4. View predicted transitions and visualize changes  
+5. Optionally, download results or mutation reports
 
 ---
 
 ## 📦 Folder Structure
 
-```
-├── app.py
-├── data/
-├── symbols/
-├── assets/
-└── README.md
-```
+├── app.py ├── data/ ├── zgl_symbolic_mutation.py ├── zgl_predict.py ├── zgl_viewer.py ├── zgl_export.py └── README.md
 
 ---
 
 ## 📄 License
 
-> **This is a non-commercial project.**  
+> **This is a non-commercial public showcase.**  
 All rights reserved © 2025 — Faris Zeghdani  
-Use of this repo is allowed for educational or demo purposes only.
+Use of this code is permitted for educational and non-commercial demonstration only.  
+Commercial use requires formal licensing.
 
 ---
 
@@ -59,17 +80,23 @@ Use of this repo is allowed for educational or demo purposes only.
 
 📧 zeghdanifaris@gmail.com  
 📞 +213 669 078 990  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/zeghdanifaris/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/zeghdanifaris/)  
+🌐 [Z Genome Lab Website (coming soon)](https://zgenomelab.com)
 
-💼 Interested in full version, enterprise integration, or licensing?  
+💼 Interested in SaaS licensing, research partnerships, or enterprise integration?  
 **Contact me directly.**
 
 ---
 
 ## ⭐ Stay Tuned
 
-- Full SaaS release coming soon [zgenomelab.com](https://zgenomelab.com)
-- Research publication: [WIPO Green], INPI France registration
-- Mobile app and enhanced AI analytics in roadmap
+- 🚀 Full Z Genome Lab SaaS release coming soon on [zgenomelab.com](https://zgenomelab.com)  
+- 📜 Scientific publications (WIPO, INPI France)  
+- 📱 Mobile app and AI-powered symbolic diagnostics in development  
+- 🔬 Research-ready modules for symbolic bioinformatics
 
 ---
+
+“Symbolic mutation is not randomness — it is structure, order, and genomic intelligence.”
+
+#ZGenomeLab #SSM #SymbolicMutation #GenomicAI #DNAEngineering #Bioinformatics #INPI #WIPO #StreamlitApp #DisruptiveTech
