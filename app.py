@@ -10,6 +10,7 @@ st.title("🧬 Z Genome Lab Lite – Symbolic Mutation Engine")
 
 st.markdown("Enter a DNA sequence to apply a symbolic Z mutation and visualize the result.")
 
+# Load initial sequence (or placeholder)
 dna_input = st.text_input("🔤 DNA Sequence:", load_dna_sequence())
 
 if st.button("🔁 Apply Z Mutation"):
@@ -22,7 +23,26 @@ if st.button("🔁 Apply Z Mutation"):
 
     st.markdown(f"🧠 **AI Prediction:** _{prediction}_")
 
+    # Display chart
     st.pyplot(visualize_dna(dna_input, mutated_dna))
 
+    # Export button
     if st.download_button("📄 Download Result", data=f"Original: {dna_input}\nMutated: {mutated_dna}", file_name="zgl_result.txt"):
         st.success("Result downloaded successfully!")
+
+# Symbolic Explanation (appears under chart)
+st.markdown("""
+---
+🔬 **Symbolic Transition Mutation: Stability through Genomic Logic**
+
+This phenomenon applies a symbolic mutation on DNA sequences where:  
+- **Adenine (A)** → **Guanine (G)**  
+- **Thymine (T)** → **Cytosine (C)**  
+
+These substitutions respect **purine-to-purine** and **pyrimidine-to-pyrimidine** transitions, ensuring:  
+- ✅ Minimal structural disruption of the double helix  
+- ✅ Preservation of molecular weight and hydrogen bonding balance  
+- ✅ Symbolic mutation stability for intelligent DNA processing  
+
+🧬 This rule mimics biological transition mutations but implements them in a **mathematically controlled symbolic form**: **Symbolic Mutation**
+""")
