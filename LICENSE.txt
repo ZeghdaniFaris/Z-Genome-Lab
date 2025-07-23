@@ -1,11 +1,16 @@
-Copyright (c) 2025 Faris Zeghdani
+This is a non-commercial public showcase.  
+© 2025 — Faris Zeghdani. All rights reserved.
 
-This project (Z Genome Lab Lite) is published under a Non-Commercial Demonstration License.
-It is strictly for educational, demonstration, and scientific evaluation purposes only.
+This project introduces the SSM™ (Symbolic Stable Mutation) framework — a proprietary symbolic genome engineering system created as part of Z Genome Lab.
 
-Commercial use, resale, or redistribution is prohibited without explicit permission.
+The symbolic engine, mutation method, and symbolic constructs are protected intellectual assets authored by Faris Zeghdani.
 
-To request access to the full commercial version of Z Genome Lab, contact:
+Use of this code is strictly limited to educational, scientific, and non-commercial demonstration purposes.  
+**Commercial use, redistribution, or derivative works are strictly prohibited** without written authorization.
+
+For research collaborations, licensing opportunities, or commercial inquiries:  
+📩 Founder@zgenomelab.com  
+🌐 zgenomelab.com
 📩 Email: zeghdanifaris@gmail.com
 📞 WhatsApp: +213 669 078 990
 🔗 LinkedIn: https://www.linkedin.com/in/zeghdanifaris/
