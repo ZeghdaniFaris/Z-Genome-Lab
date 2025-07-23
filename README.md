@@ -69,7 +69,7 @@ Implemented directly in the Z Genome Lab Lite engine.
 
 ## 📄 License
 
-> **This is a non-commercial > **This is a non-commercial public showcase.**  
+> **This is a non-commercial public showcase.**  
 >  
 > © 2025 — Faris Zeghdani. All rights reserved.  
 >  
