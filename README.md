@@ -31,6 +31,7 @@ It enables users to:
 ---
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16665221.svg)](https://doi.org/10.5281/zenodo.16665221)
+[![License](https://img.shields.io/badge/license-Commercial-blue.svg)](mailto:founder@zgenomelab.com)
 
 ## 🧬 SSM™ + GenCom™ — A Symbolic Genetic Mutation & Command System
 
