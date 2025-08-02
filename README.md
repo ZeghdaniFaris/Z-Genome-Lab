@@ -30,24 +30,58 @@ It enables users to:
 
 ---
 
-## 🧬 Symbolic Stable Mutation (SSM)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16665221.svg)](https://doi.org/10.5281/zenodo.16665221)
 
-Z Genome Lab introduces a novel symbolic concept in genomics:  
-**SSM — Symbolic Stable Mutation**
+## 🧬 SSM™ + GenCom™ — A Symbolic Genetic Mutation & Command System
 
-This transformation applies transition-based symbolic mutation rules:
+**Z Genome Lab™** introduces a groundbreaking innovation in symbolic synthetic biology:  
+**SSM™ (Symbolic Stable Mutation)** + **GenCom™ (Genetic Command System)** — a programmable symbolic framework for genomic transformation and control.
+
+---
+
+### 🔬 Symbolic Mutation Rules (SSM™)
+Applies deterministic symbolic substitutions to ensure mutation stability:
 
 - **Adenine (A)** → **Guanine (G)**  
-- **Thymine (T)** → **Cytosine (C)**  
+- **Thymine (T)** → **Cytosine (C)**
 
-These purine-to-purine and pyrimidine-to-pyrimidine substitutions ensure:
+These transitions preserve:  
+✅ DNA double-helix integrity  
+✅ Hydrogen bonding logic  
+✅ Symbolic, interpretable mutation dynamics
 
-✅ Structural stability of the DNA double helix  
-✅ Preservation of hydrogen bonding and molecular weight  
-✅ Symbolic, explainable, and mathematically controlled mutation  
+---
 
-This is not random mutagenesis — it's a **stable, interpretable transformation** powered by symbolic logic.  
-Implemented directly in the Z Genome Lab Lite engine.
+### 🧠 GenCom™ Integration  
+GenCom™ enables symbolic-level control over gene expression, using programmable mutation logic and command operators to alter gene functions dynamically.
+
+---
+
+### 📄 Official Publication  
+🧬 This system is scientifically published and timestamped:  
+🔗 [https://doi.org/10.5281/zenodo.16665221](https://doi.org/10.5281/zenodo.16665221)
+
+---
+
+### 📜 Licensing & Access
+
+⚠️ **This technology is protected and requires a license for use.**  
+Licensing includes research, academic, and commercial options.
+
+📌 **For licensing inquiries, please contact:**  
+📧 `founder@zgenomelab.com`
+
+---
+
+### ⚙️ Status  
+Implemented inside the `Z Genome Lab Lite` engine — with full SaaS version under development for secured access.
+
+---
+
+### 🔒 License  
+- Proprietary and protected  
+- Not open-source  
+- Educational demo access only
 
 ---
 
@@ -73,7 +107,7 @@ Implemented directly in the Z Genome Lab Lite engine.
 >  
 > © 2025 — Faris Zeghdani. All rights reserved.  
 >  
-> This project introduces the **SSM™ (Symbolic Stable Mutation)** framework — a proprietary symbolic genome engineering system created as part of **Z Genome Lab**.  
+> This project introduces the **SSM™ (Symbolic Stable Mutation)** **GenCom™ (Genetic Command)** framework — a proprietary symbolic genome engineering system created as part of **Z Genome Lab**.  
 >  
 > The symbolic engine, mutation method, and symbolic constructs are **protected intellectual assets** authored by Faris Zeghdani.  
 >  
